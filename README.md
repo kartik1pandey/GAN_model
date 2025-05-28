@@ -78,8 +78,8 @@ CycleGAN is a type of GAN designed for **unpaired image-to-image translation**, 
 ### 2. Clone the Repository
 Clone the repository containing the script:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/kartik1pandey/GAN_model.git
+cd GAN_model
 ```
 Ensure `kaggle.json` is in the same directory as `train_cyclegan_script.py`, or use the paths above.
 
